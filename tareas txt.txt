@@ -1,0 +1,8 @@
+Tareas del proyecto
+
+1. Crear README del proyecto
+2. Crear archivo con datos del grupo
+3. Crear lista de tareas
+4. Crear carpeta de documentación
+5. Añadir funciones JavaScript
+
