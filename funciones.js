@@ -1,4 +1,4 @@
-// Función que suma dos números
+// Función que suma dos números 
 function sumar(a, b) {
   return a + b;
 }
